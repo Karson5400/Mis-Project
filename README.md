@@ -15,3 +15,5 @@ I then Persisted the data into a Postgresql Database.
 Data Analysis
 In my project I tried to deep dive into a couple key factors. Hoping to see what defines all star players seasons, and what A champoinship team consists of. 
 
+Conclusions
+The nba has shifted away from relying on just 1 player taking a majority of the shots. The nba starting lineups of winning teams now consist of 2 to 3 players that most of the field goal attempts go through, and  2 to 3 efficient players not taking a high amount of shot volume. Also shot volume as a whole has gone down Per Player/ Focousing more on efficiency.  
