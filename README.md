@@ -1,4 +1,4 @@
-#NBA Data Evaluation-Project
+NBA Data Evaluation-Project
 You Can View an HTML version of my Jupyter Notebook at https://nbviewer.jupyter.org/github/Karson5400/Mis-Project/blob/master/Final%20Project%20Secure.html
 This has A synopsis of my work and conclusions.
 Data Acquisition I Used a great data set found on Kaggle providing over 50 years of season by season stats data which you can find here https://www.kaggle.com/drgilermo/nba-players-stats#Seasons_Stats.csv. I also pulled data NBA Stats.com by Parsing a Json File found at. http://data.nba.net/10s/prod/v1/2016/players.json.
